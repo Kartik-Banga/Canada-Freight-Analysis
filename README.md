@@ -38,14 +38,19 @@
         X Variable 5	-0.650916327
    X Variable 1 (Shipment): - Indicates that, on average, each additional unit of shipment is associated with an increase in shipment value of approximately   
                               $24,169.45.
+
    X Variable 2 (WeightKg): - suggests that, on average, each additional unit of weight (in kilograms) is associated with a decrease in shipment value by 
                               approximately $0.559.
+
    X Variable 3 (Distance): - suggests that, on average, each additional unit of distance is associated with a decrease in shipment value by approximately  
                               $11.18.
+
    X Variable 4 (Revenue):  - indicates that, on average, each additional unit of revenue is associated with an increase in shipment value of approximately  
                               $40.89.
+
    X Variable 5 (TonneKm):    suggests that, on average, each additional unit of TonneKm is associated with a decrease in shipment value by approximately 
                               $0.651.
+
    The multiple linear regression model suggests that the combination of Shipment, WeightKg, Distance, Revenue, and TonneKm  
    significantly predicts shipment value. The model explains a substantial portion (60.7%) of the variability in shipment value. 
    Each coefficient represents the estimated change in shipment value for a one-unit change in the corresponding independent variable, holding other 
