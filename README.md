@@ -28,14 +28,23 @@
    On average, an increase in distance is associated with an increase in shipment value. 
 
 6. Relation b/w Shipment value and (Shipment,WeightKg, Distance, Revenue, TonneKm )
+
    Correlation coefficient - 0.779, R Square value - 0.60
-   	Coefficients
+
+   Coefficients
+
         Intercept	11306730.1
+
         X Variable 1	24169.45141
+
         X Variable 2	-0.559483249
+
         X Variable 3	-11.17552351
+
         X Variable 4	40.89071035
+
         X Variable 5	-0.650916327
+
    X Variable 1 (Shipment): - Indicates that, on average, each additional unit of shipment is associated with an increase in shipment value of approximately   
                               $24,169.45.
 
